@@ -1,4 +1,4 @@
-# A Crud API built on Go, postgres, Gorm and Docker
+# A Restful API built on Go, postgres, Gorm in an isolated docker
 
 Available on docker-hub
 
